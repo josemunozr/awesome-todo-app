@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ec3e3b9.chunk.css",
-    "main.js": "/static/js/main.90ad6244.chunk.js",
-    "main.js.map": "/static/js/main.90ad6244.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ba38718f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ba38718f.js.map",
-    "static/js/2.443b4666.chunk.js": "/static/js/2.443b4666.chunk.js",
-    "static/js/2.443b4666.chunk.js.map": "/static/js/2.443b4666.chunk.js.map",
-    "static/js/3.ac93d708.chunk.js": "/static/js/3.ac93d708.chunk.js",
-    "static/js/3.ac93d708.chunk.js.map": "/static/js/3.ac93d708.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3ec3e3b9.chunk.css.map": "/static/css/main.3ec3e3b9.chunk.css.map",
-    "static/js/2.443b4666.chunk.js.LICENSE.txt": "/static/js/2.443b4666.chunk.js.LICENSE.txt",
-    "static/media/icon-check.a8fb15d0.svg": "/static/media/icon-check.a8fb15d0.svg",
-    "static/media/icon-cross.6ee81d30.svg": "/static/media/icon-cross.6ee81d30.svg"
+    "main.css": "/awesome-todo-app/static/css/main.3ec3e3b9.chunk.css",
+    "main.js": "/awesome-todo-app/static/js/main.90ad6244.chunk.js",
+    "main.js.map": "/awesome-todo-app/static/js/main.90ad6244.chunk.js.map",
+    "runtime-main.js": "/awesome-todo-app/static/js/runtime-main.abdfe828.js",
+    "runtime-main.js.map": "/awesome-todo-app/static/js/runtime-main.abdfe828.js.map",
+    "static/js/2.443b4666.chunk.js": "/awesome-todo-app/static/js/2.443b4666.chunk.js",
+    "static/js/2.443b4666.chunk.js.map": "/awesome-todo-app/static/js/2.443b4666.chunk.js.map",
+    "static/js/3.ac93d708.chunk.js": "/awesome-todo-app/static/js/3.ac93d708.chunk.js",
+    "static/js/3.ac93d708.chunk.js.map": "/awesome-todo-app/static/js/3.ac93d708.chunk.js.map",
+    "index.html": "/awesome-todo-app/index.html",
+    "static/css/main.3ec3e3b9.chunk.css.map": "/awesome-todo-app/static/css/main.3ec3e3b9.chunk.css.map",
+    "static/js/2.443b4666.chunk.js.LICENSE.txt": "/awesome-todo-app/static/js/2.443b4666.chunk.js.LICENSE.txt",
+    "static/media/icon-check.a8fb15d0.svg": "/awesome-todo-app/static/media/icon-check.a8fb15d0.svg",
+    "static/media/icon-cross.6ee81d30.svg": "/awesome-todo-app/static/media/icon-cross.6ee81d30.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba38718f.js",
+    "static/js/runtime-main.abdfe828.js",
     "static/js/2.443b4666.chunk.js",
     "static/css/main.3ec3e3b9.chunk.css",
     "static/js/main.90ad6244.chunk.js"
