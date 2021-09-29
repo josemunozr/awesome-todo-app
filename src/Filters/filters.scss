@@ -1,0 +1,18 @@
+@import "../assets/scss/colors.scss";
+
+.filters {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    color: $dark-grayish-blue;
+    flex: auto;
+    li {
+        cursor: pointer;
+        &.active,
+        &:hover {
+            color: $bright-blue;
+        }
+    }
+}

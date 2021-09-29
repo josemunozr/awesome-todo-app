@@ -1,0 +1,15 @@
+@import "../assets/scss/colors.scss";
+
+.list {
+    position: relative;
+    top: -28px;
+    max-height: 500px;
+    overflow: auto;
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        background-color: $dark-desaturated-blue;
+        border-radius: 5px;
+    }
+}

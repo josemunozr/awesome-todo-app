@@ -1,0 +1,17 @@
+@import "../assets/scss/colors.scss";
+
+.search {
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    background-color: $dark-desaturated-blue;
+    padding: 0.5rem;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 1rem;
+    color: #fff;
+    &:focus-visible {
+        outline: none;
+    }
+}

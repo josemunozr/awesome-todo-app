@@ -1,0 +1,43 @@
+@import "../assets/scss/colors.scss";
+
+.item {
+    height: 40px;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &:not(:last-child) {
+        border-bottom: 0.5px solid $dark-grayish-blue;
+    }
+    &-check {
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+        border: 1px solid $dark-grayish-blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        &.checked {
+            background: $check-bg;
+        }
+    }
+    &-text {
+        color: #fff;
+        flex: auto;
+        padding-left: 2rem;
+    }
+    img {
+        cursor: pointer;
+    }
+
+    &.last {
+        color: $dark-grayish-blue;
+        .clear {
+            cursor: pointer;
+            &:hover {
+                color: $bright-blue;
+            }
+        }
+    }
+}
